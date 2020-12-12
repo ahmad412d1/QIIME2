@@ -1,0 +1,14 @@
+Progress pembuatan notebook QIIME2
+1. 5 dec - baru sekitar se uprik, sekitar 2/10 sih menurutku
+2. 12 dec - udah sampai DADA2 dan Deblur
+
+next to do:
+1. Tentumya selesaikan deskripsi tiap script atau line
+2. perhatikan tiap terminologi yang digunakan, pastikan anda paham dengan sumber terminologi dan jika itu merupakan method, maka harus bisa sedikit disinggung dan diberi link untuk membaca lebih lanjut
+3. diakhir, edit narasinya sehingga mudah dipahami
+4. kirim ke beberapa teman untuk mengetahui apakah narasinya sudah dapat dipahami atau kurng paham. Bagian mana yang kurang paham disertai masukan jika perlu.
+
+references:
+(1) https://www.illumina.com/techniques/sequencing/ngs-library-prep/multiplexing.html
+(2) Shoemaker, D., Lashkari, D., Morris, D. et al. Quantitative phenotypic analysis of yeast deletion mutants using a highly parallel molecular bar–coding strategy. Nat Genet 14, 450–456 (1996). https://doi.org/10.1038/ng1296-450 
+(3) Goodrich, J. K., Rienzi, S. C. Di, Poole, A. C., Koren, O., William, A., Caporaso, J. G., Knight, R., & Ley, R. E. (2016). Conducting a Microbiome Study. HHS Public Access, 158(2), 250–262. https://doi.org/10.1016/j.cell.2014.06.037.Conducting
