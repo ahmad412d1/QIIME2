@@ -4,7 +4,7 @@ Progress pembuatan notebook QIIME2
 3. 25 dec - problem di understading sampling depth
 4. 10 Jan 21 - baru sampai di alfa dan beta diversity, selanjutnya akan jelasin dikit ttng sampling depth
 5. 25 Jan 21 - selesia menulis deskripsi alfa dan beta diversity disertai gambar. gambarnya bisa diedit dulu nnti yakkk,jangan pakai plek gambar yng di copas
-
+6. 27 Jan 21 - 
 next to do:
 1. Tentunya selesaikan deskripsi tiap script atau line
 2. perhatikan tiap terminologi yang digunakan, pastikan anda paham dengan sumber terminologi dan jika itu merupakan method, maka harus bisa sedikit disinggung dan diberi link untuk membaca lebih lanjut
@@ -18,6 +18,6 @@ references (format:APA):
 (4) Callahan, B. J., McMurdie, P. J., Rosen, M. J., Han, A. W., Johnson, A. J., & Holmes, S. P. (2016). DADA2: High-resolution sample inference from Illumina amplicon data. Nature methods, 13(7), 581–583. https://doi.org/10.1038/nmeth.3869
 (5) Amir, A., Mcdonald, D., Navas-Molina, J. A., Kopylova, E., Morton, J. T., Zech Xu, Z., Kightley, E. P., Thompson, L. R., Hyde, E. R., Gonzalez, A., & Knight, R.. (2017). Deblur Rapidly Resolves Single-Nucleotide Community Sequence Patterns. Msystems, 2(2), e00191–16. https://doi.org/10.1128/msystems.00191-16
 (6) Estaki, M., Jiang, L., Bokulich, N. A., Mcdonald, D., González, A., Kosciolek, T., Martino, C., Zhu, Q., Birmingham, A., Vázquez‐Baeza, Y., Dillon, M. R., Bolyen, E., Caporaso, J. G., & Knight, R.. (2020). QIIME 2 Enables Comprehensive End‐to‐End Analysis of Diverse Microbiome Data and Comparative Studies with Publicly Available Data. Current Protocols in Bioinformatics, 70(1). https://doi.org/10.1002/cpbi.100
-(6) Krebs, 
-(7) Bynum, Nora, 2021, 67: Alpha, Beta, and Gamma Diversity. (2018, December 26). Biology LibreTexts. https://bio.libretexts.org/Bookshelves/Ecology/Book%3A_Biodiversity_(Bynum)/7%3A_Alpha%2C_Beta%2C_and_Gamma_Diversity
-(8) Willis, A. D.. (2019). Rarefaction, Alpha Diversity, and Statistics. Frontiers in Microbiology, 10. https://doi.org/10.3389/fmicb.2019.02407
+(7) Krebs, Charles J. 2009. Ecology: The Experimental Analysis of Distribution and Abundance. Pearson Benjamin Cummings, San Fransisco. 
+(8) Bynum, Nora, 2021, 67: Alpha, Beta, and Gamma Diversity. (2018, December 26). Biology LibreTexts. https://bio.libretexts.org/Bookshelves/Ecology/Book%3A_Biodiversity_(Bynum)/7%3A_Alpha%2C_Beta%2C_and_Gamma_Diversity
+(9) Willis, A. D.. (2019). Rarefaction, Alpha Diversity, and Statistics. Frontiers in Microbiology, 10. https://doi.org/10.3389/fmicb.2019.02407
