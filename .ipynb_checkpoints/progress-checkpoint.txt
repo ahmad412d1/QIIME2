@@ -5,6 +5,7 @@ Progress pembuatan notebook QIIME2
 4. 10 Jan 21 - baru sampai di alfa dan beta diversity, selanjutnya akan jelasin dikit ttng sampling depth
 5. 25 Jan 21 - selesia menulis deskripsi alfa dan beta diversity disertai gambar. gambarnya bisa diedit dulu nnti yakkk,jangan pakai plek gambar yng di copas
 6. 27 Jan 21 - maasih dia alfa dan beta diversity, tepatnya di bagian core metrics. mayan lama di baca dan undertanding the sampling depth sih, hehe
+7. 30 Jan 21 - udh nyamapai di beta diversity sample in group. udh terlalu malam utnuk edit deskripsi, dan sedikit ngantuk. nggk banyak yang tambahin krna udh nggk fokus, jadi ta stop aja. 
 
 next to do:
 1. Tentunya selesaikan deskripsi tiap script atau line
