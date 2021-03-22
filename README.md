@@ -1,1 +1,4 @@
 # QIIME2
+summary 
+
+Quantitative Insight Into Microbial Ecology (QIIME) merupakan salah satu platform analisis microbiome atau microbial ekology. Sebelumya terdapat versi QIIME1, namun saat ini sudah jarang digunakan dan tidak se-update QIIME2. QIIME2 memiliki plugin yang vairatif dan mencangkup berbagai protokol analisis microbiome. Terkait sapce memory yang dibutuhkan berkisar 3.5 - 4.5 GB. Minimal spec komputer dengan RAM 4 GB dan semakin tinggi semkain baik, namun jika menggunakan instalasi Virtual Machine maka RAM yang digunakan sebaiknya diatas 8 GB. selain itu juga dapat menggunakan dual boot pada Linux dan menggunakan docker container. Perlu sedikit penegtahuan dibidang programming dalam menjalankan QIIME2, knususnya python, karena basis QIIME2 adalah python. Pada dual boot Linux, terlebih dahulu dilakukan instalasi Miniconda3 atau Anaconda3, baru install QIIME2 agar QIIME2 dapat dikenali oleh python pada Miniconda atau Anaconda.
